@@ -1,0 +1,41 @@
+    body {
+      background-color: #f2f2f2;
+      font-family: Arial, sans-serif;
+    }
+    
+    .container {
+      width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #ffffff;
+      border-radius: 5px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+    
+    h1 {
+      color: #333333;
+      text-align: center;
+    }
+    
+    p {
+      color: #666666;
+      line-height: 1.5;
+    }
+    
+    .highlight {
+      font-weight: bold;
+      color: #ff0000;
+    }
+    <h1>Penukaran Uang Baru Menjelang Lebaran</h1>
+    <p>Menjelang Lebaran, Bank NTB akan mengadakan program penukaran uang baru. Program ini bertujuan untuk mempermudah masyarakat dalam mendapatkan uang baru yang segar dan layak edar.</p>
+    <p>Informasi penting seputar penukaran uang baru:</p>
+    <ul>
+      <li>Waktu penukaran: 10 Mei 2023 - 20 Mei 2023</li>
+      <li>Tempat penukaran: Kantor pusat Bank ABC dan seluruh cabang di seluruh Indonesia</li>
+      <li>Uang yang bisa ditukar: Uang pecahan 20.000, 50.000, dan 100.000 rupiah</li>
+      <li>Setiap individu diperkenankan menukarkan uang sebesar <span class="highlight">maksimum 5.000.000 rupiah</span></li>
+    </ul>
+    <p>Untuk informasi lebih lanjut, silakan hubungi layanan pelanggan kami di nomor 123456789 atau kunjungi website resmi Bank ABC.</p>
+  </div>
+</body>
+</html>
